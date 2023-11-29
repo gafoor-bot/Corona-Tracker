@@ -1,1 +1,1 @@
-# Corona-Tracker
+# Covid19-Tracker
